@@ -134,7 +134,7 @@ HLT;
 ![image](https://user-images.githubusercontent.com/94219798/189396946-5e13c6fc-a952-4c73-801e-5c4eb237c41e.png)
 
 
-## Division alp 
+## Division of 8 bit ALP
 ```
 name "DIVISION"
 org 700h
