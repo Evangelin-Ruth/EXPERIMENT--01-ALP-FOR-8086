@@ -97,7 +97,7 @@ HLT;
 ![image](https://user-images.githubusercontent.com/94219798/189396564-86ccdef3-197b-468b-ae6b-e79ec986aca8.png)
 
 ## Subtraction   of 8 bit numbers  ALP 
-``
+```
  name "SUBTRACTION"
 org 100h
 MOV AH,09H;
