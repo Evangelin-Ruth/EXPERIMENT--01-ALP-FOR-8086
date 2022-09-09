@@ -93,12 +93,12 @@ HLT;
 ![image](https://user-images.githubusercontent.com/94219798/189396723-c6714f91-27ce-4077-b91d-fbcee3ea16f5.png)
 ![image](https://user-images.githubusercontent.com/94219798/189396746-5be67ed8-8976-455e-a69a-bbbcef3feb3c.png)
 
-##Flag
+## Flag
 ![image](https://user-images.githubusercontent.com/94219798/189396564-86ccdef3-197b-468b-ae6b-e79ec986aca8.png)
 
 ## Subtraction   of 8 bit numbers  ALP 
 ```
- name "SUBTRACTION"
+name "SUBTRACTION"
 org 100h
 MOV AH,09H;
 MOV BH,03H;
@@ -112,7 +112,7 @@ HLT;
 ![image](https://user-images.githubusercontent.com/94219798/189396623-4f1a9ab4-eab6-4fac-ae9b-0e62f7ec07f4.png)
 ![image](https://user-images.githubusercontent.com/94219798/189396667-b515a91c-a8dd-4e75-ba27-fa06f5849c5f.png)
 
-##Flag
+## Flag
 ![image](https://user-images.githubusercontent.com/94219798/189396805-3622c547-529d-41ee-8d85-3dc6465654b1.png)
 
 ## Multiplication alp 
@@ -130,7 +130,7 @@ HLT;
 ![image](https://user-images.githubusercontent.com/94219798/189396869-d2d2e515-b99c-41ea-851c-4ff392ef2fd9.png)
 ![image](https://user-images.githubusercontent.com/94219798/189396892-e3bd8565-3b88-48ca-bc4e-c13b3af1fd13.png)
 
-##FlaG
+## Flag
 ![image](https://user-images.githubusercontent.com/94219798/189396946-5e13c6fc-a952-4c73-801e-5c4eb237c41e.png)
 
 
@@ -149,7 +149,7 @@ HLT;
 ![image](https://user-images.githubusercontent.com/94219798/189396998-ea08dd21-808f-4685-8a31-af52284793d7.png)
 ![image](https://user-images.githubusercontent.com/94219798/189397029-94a768a9-b40b-480a-9e62-f100d0066080.png)
 
-##Flag
+## Flag
 ![image](https://user-images.githubusercontent.com/94219798/189397073-3a070136-afc4-4b90-b8e9-d030fcc9ce8e.png)
 
 
